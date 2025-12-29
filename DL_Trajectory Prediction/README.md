@@ -6,8 +6,6 @@ This project explores different Deep Learning architectures to predict vehicle w
 ### GOAL
 The goal was to design a planner that takes either **lane boundary coordinates** or **raw camera images** as input and outputs precise control waypoints $(x, y)$ for the next 3 time steps.
 
-**View the Model Architecture Code:** [models.py](https://github.com/pinchenchen/pinchenchen/blob/4056a8784a8fd982254710d6fb595bd58c077f5d/DL_Trajectory%20Prediction/models.py)
-
 ### Input Data Visualization
 The model processes environmental data to make driving decisions. Below are examples of the visual inputs used, particularly for the CNN-based planner.
 
