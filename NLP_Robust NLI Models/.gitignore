@@ -1,0 +1,29 @@
+# This repository contains the model architectures and training methodology developed for a coursework project. The full training pipeline and dataset loaders are omitted to respect academic integrity.
+
+# project-pc29368.pdf
+# The main paper detailing the model architectures, training procedures, and evaluation results for the coursework project.
+project-pc29368.pdf
+
+# run.py
+# The main entry point for training and evaluation loops. Handles argument parsing for different model configurations.
+run.py
+
+# ensemble_simple.py
+# Implements the weighted ensemble logic. It loads probability distributions from multiple checkpoints and computes the optimal weighted average.
+ensemble_simple.py
+
+# filter_hard_data.py
+# A utility script used to preprocess the validation set, splitting it into "Easy" (heuristic-solvable) and "Hard" (requires reasoning) subsets for rigorous evaluation.
+filter_hard_data.py
+
+# final_執行.ipynb
+# Personal final execution notebook demonstrating the use of the developed models and ensemble methods.
+final_執行.ipynb
+
+# final_實作.ipynb
+# Personal final implementation notebook detailing the step-by-step process of model training, evaluation, and ensemble application.
+final_實作.ipynb
+
+# finel_程式碼說明.ipynb
+# Personal final code explanation notebook providing detailed comments and explanations for the codebase.
+finel_程式碼說明.ipynb
