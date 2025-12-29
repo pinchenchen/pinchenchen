@@ -43,16 +43,6 @@ I implemented a **Weighted Voting Mechanism** that aggregates predictions from f
 The final prediction is calculated as:
 $$P_{final} = \text{argmax} \left( \sum_{i=1}^{k} w_i \times \log(P_{model\_i}) \right)$$
 
----
-
-## Code Structure
-
-- **`run.py`**: The main entry point for training and evaluation loops. Handles argument parsing for different model configurations.
-- **`ensemble_simple.py`**: Implements the weighted ensemble logic. It loads probability distributions from multiple checkpoints and computes the optimal weighted average.
-- **`filter_hard_data.py`**: A utility script used to preprocess the validation set, splitting it into "Easy" (heuristic-solvable) and "Hard" (requires reasoning) subsets for rigorous evaluation.
-
----
-
 ## Results
 
 The rigorous ensemble approach demonstrated a clear improvement over the single-model baseline. By combining models with different strengths (General vs. Hard-focused), the final weighted ensemble achieved the lowest overall error rate.
@@ -65,6 +55,13 @@ The rigorous ensemble approach demonstrated a clear improvement over the single-
 | :--- | :--- |
 | **Baseline (BERT-base)** | ~88.50% |
 | **Weighted Ensemble (Final)** | **89.90%** |
+
+
+## Code Structure
+
+- **`run.py`**: The main entry point for training and evaluation loops. Handles argument parsing for different model configurations.
+- **`ensemble_simple.py`**: Implements the weighted ensemble logic. It loads probability distributions from multiple checkpoints and computes the optimal weighted average.
+- **`filter_hard_data.py`**: A utility script used to preprocess the validation set, splitting it into "Easy" (heuristic-solvable) and "Hard" (requires reasoning) subsets for rigorous evaluation.
 
 ## Tech Stack
 - **Python**
