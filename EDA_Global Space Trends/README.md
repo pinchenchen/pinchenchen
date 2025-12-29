@@ -1,4 +1,4 @@
-# Global Space Exploration Trends Analysis 🚀
+# Global Space Exploration Trends Analysis
 
 ## Overview
 This project is an **Exploratory Data Analysis (EDA)** of over 60 years of space mission data. Using **R** and the **Tidyverse** ecosystem, I visualized the history of space exploration, tracing the geopolitical shift from the Cold War-era "Space Race" to the modern rise of commercial spaceflight.
@@ -28,6 +28,17 @@ The charts below illustrate the total number of objects launched, highlighting t
 ![Total Number of Objects Launched](https://github.com/pinchenchen/pinchenchen/blob/main/EDA_Global%20Space%20Trends/Total%20Number%20of%20Objects%20Launched%20Into%20Space.jpg)
 
 ![Number of Objects Launched](https://github.com/pinchenchen/pinchenchen/blob/main/EDA_Global%20Space%20Trends/Number%20of%20Objects%20Launched%20Into%20Space.jpg)
+*Visualizing the exponential growth and yearly breakdown of space objects.*
+
+---
+
+## Conclusion
+
+Based on the data analysis, three major trends characterize the history of space exploration:
+
+1.  **Privatization of Space:** There is a definitive global shift from government-monopolized missions to commercial spaceflight. Post-2010 data reveals an **over 300% increase** in U.S. private sector activity, driven largely by companies like SpaceX and Blue Origin.
+2.  **Geopolitical Diversification:** While the 20th century was defined by a bipolar "Space Race" between the USA and USSR, the 21st century features a multipolar landscape with significant contributions from China, Europe, and private entities.
+3.  **Maturation of Technology:** The dramatic decrease in mission failure rates (from >40% in the 1950s to <5% today) indicates that space launch technology has matured from an experimental phase to a reliable operational industry.
 
 ---
 
