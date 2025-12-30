@@ -1,4 +1,4 @@
-# Robust NLI Models: Mitigating Dataset Artifacts 🧠
+# Robust NLI Models: Mitigating Dataset Artifacts
 
 ## Overview
 This project addresses the critical issue of **Dataset Artifacts** in Natural Language Inference (NLI). Standard models (like BERT) often learn superficial heuristics (e.g., associating the word "not" with *Contradiction*) rather than true semantic understanding. 
