@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pinchenchen.us@gmail.com**
 
-- 📄 Know about my experiences [RESUME.pdf](https://github.com/pinchenchen/pinchenchen/blob/9bb3ff94382005aa06f241eaff9baac6dfa250af/PinchenChen.pdf)
+- 📄 Know about my experiences [RESUME.pdf](https://github.com/pinchenchen/pinchenchen//tree/main/PinchenChen.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
