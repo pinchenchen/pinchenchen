@@ -9,9 +9,9 @@
 
 | Project | Tech Stack | Highlights |
 |---------|------------|------------|
-| [Trajectory Prediction](https://github.com/pinchenchen/pinchenchen/tree/main/DL_Trajectory%20Prediction/README.md) | PyTorch, CNN, Transformer | Achieved longitudinal error < 0.20 in SuperTuxKart. |
-| [Robust NLI Models](https://github.com/pinchenchen/pinchenchen/tree/main/NLP_Robust%20NLI%20Models/README.md) | NLP, Ensemble Learning | Surpassed SNLI baseline with 89.90% accuracy. |
-| [Global Space Trends](https://github.com/pinchenchen/pinchenchen/tree/main/EDA_Global%20Space%20Trends/README.md) | R, Tidyverse | Visualized 60+ years of space data & commercial shifts. |
+| [Trajectory Prediction](https://github.com/pinchenchen/pinchenchen/tree/main/DL_Trajectory%20Prediction/README.md) | PyTorch, CNN, Transformer, SuperTuxKart | Object detection from camera and waypoint prediction, custom loss functions, positional encoding |
+| [Robust NLI Models](https://github.com/pinchenchen/pinchenchen/tree/main/NLP_Robust%20NLI%20Models/README.md) | NLP, Fine-tuning, Ensemble Learning | Surpassed SNLI baseline with 89.90% accuracy. |
+| [Global Space Trends](https://github.com/pinchenchen/pinchenchen/tree/main/EDA_Global%20Space%20Trends/README.md) | R, Tidyverse, sf | Visualized 60+ years of space data & commercial shifts. |
 
 - 👨‍💻 All of my projects are available at [HERE](https://github.com/pinchenchen/pinchenchen)
 
