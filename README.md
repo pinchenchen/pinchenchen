@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pinchen Chen</h1>
-<h3 align="center">Aspiring Machine Learning Engineer & Master of Data Science Candidate at UT Austin.</h3>
-
+<!--<h3 align="center">Aspiring Machine Learning Engineer & Master of Data Science Candidate at UT Austin.</h3>
+-->
+<!--
 - 🌱 I’m currently learning **Deep Generative Models**
+-->
 
 - 🚀 Featured Projects
 
