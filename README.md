@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pinchen Chen</h1>
 <!--<h3 align="center">Aspiring Machine Learning Engineer & Master of Data Science Candidate at UT Austin.</h3>
 -->
-<!--
-- 🌱 I’m currently learning **Deep Generative Models**
--->
+
+- 🌱 Currently learning
+
+| Course | Tech Stack | Project |
+|---------|------------|------------|
+| Advances in Deep Learning | PyTorch, vLLM, Ray, FlashAttention, DeepSpeed | Efficient LLM Training, Distributed Inference, & Vision-Language Models |
+| Advances in Generative Modeling | Diffusion Models, GANs, VAEs, Autoregressive Transformers | Latent Variable Modeling, Image Synthesis, & Text Generation |
 
 - 🚀 Featured Projects
 
